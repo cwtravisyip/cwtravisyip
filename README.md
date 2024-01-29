@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Travis, currently a Master's student at LSE, majoring in Geographic Data Science. I specialise in the application of quantitative methods to the research of economic development.
+
 
 <!--
 **cwtravisyip/cwtravisyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
