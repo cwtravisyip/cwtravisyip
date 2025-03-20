@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm Travis, currently a Master's student at LSE, majoring in Geographic Data Science. I specialise in the application of quantitative methods to the research of economic development.
+I'm Travis, a data scientist working to optimise airline operation and provide data solutions that enable data-driven decision-making. 
+As a recent Geographic Data Science graduate, I have experience handling geospatial data and cloud computing for big data analysis
 
-
+While coding in Python that is executed in Jupyter Notebook has been the primary method I use to conduct my analyses, I am now focusing on writing more structured, programmatic code to improve collaboration and code reusability.
 <!--
 **cwtravisyip/cwtravisyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
