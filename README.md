@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I'm Travis, a data scientist working to optimise airline operation and provide data solutions that enable data-driven decision-making. 
-As a recent Geographic Data Science graduate, I have experience handling geospatial data and cloud computing for big data analysis
+☺️ I'm Travis, a data scientist working to optimise airline operation and provide data solutions that enable data-driven decision-making. 
+As a recent Geographic Data Science graduate, I have experience handling geospatial data and cloud computing for big data analysis.
+I also developed extensive programmes to collect data through connections to public AIPs and weeb scraping.
 
-While coding in Python that is executed in Jupyter Notebook has been the primary method I use to conduct my analyses, I am now focusing on writing more structured, programmatic code to improve collaboration and code reusability.
+🌱 While coding in Python that is executed in Jupyter Notebook has been the primary method I use to conduct my analyses, I am now focusing on writing more structured, programmatic code to improve collaboration and code reusability.
+
+🔭 I'm currently working on the exploration of the shipping activities in the Danish Water [Automatic Identification System data](https://www.dma.dk/safety-at-sea/navigational-information/ais-data) ([repository](https://github.com/cwtravisyip/danish_ship_traffic_eda)). I am also picking up the skill to implement programmes through cloud computing on GCP in addition to other ad hoc analysis I conduct mainly on the operation of airports.
 <!--
 **cwtravisyip/cwtravisyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
